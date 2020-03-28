@@ -20,5 +20,10 @@ function addElementToEndOfArray(a,item){
 
     b.push(c);
       return b;
-      
+
   }
+
+function accessElementInArray(a,index){
+return a[index];
+
+}
