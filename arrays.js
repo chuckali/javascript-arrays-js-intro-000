@@ -35,5 +35,5 @@ return a.shift();
 
 function removeElementFromBeginningOfArray(a){
 var b=a.slice(1);
-return b;
+return a;
 }
