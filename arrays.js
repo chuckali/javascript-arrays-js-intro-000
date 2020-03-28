@@ -30,7 +30,7 @@ return a[index];
 
 function destructivelyRemoveElementFromBeginningOfArray(a){
 
-return a.shift();
+return a.shift(1);
 }
 
 function removeElementFromBeginningOfArray(e){
